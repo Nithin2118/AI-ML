@@ -11,7 +11,7 @@ With the exponential growth of digital news, the spread of fake or misleading co
 - Predicts whether a news article is real or fake
 - Streamlit-based web app for easy interaction (if applicable)
 
-  ## 🛠️ Tech Stack
+ ## 🛠️ Tech Stack
 - Python
 - Pandas, NumPy
 - Scikit-learn
